@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <img src = "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" witdht="200">
    <h1 align="center">Hello 👋 My name is Andrés</h1>
-   <h3 align="center">I'm from colombia and a passionate for backend develope</h3>
+   <h3 align="center">A passionate web backend developer from Colombia</h3>
 </div>
 
 ---
