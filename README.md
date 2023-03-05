@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Abaut me:
+### 💻 About me:
 
 - 🌱 I'm currently learning **Spring Boot Framework, Docker and reactive programming**
 
