@@ -35,7 +35,7 @@
 <br>
 # <img height="60" src="https://media.giphy.com/media/GfGva4vGq4qNsUf4N9/giphy.gif"/> GitHub Stats:
 <br>
-# <h2 align="center">⭐ Soft Skills</h2>
+-# <h2 align="center">⭐ Soft Skills</h2>
 <p align="center">Además de mis skills, tengo soft skills como la creatividad, resolución de problemas, adaptabilidad al cambio y trabajo en equipo.</p>
 <p align="center">Soy capaz de concentrarme en los detalles y de comprometerme con el esfuerzo necesario para alcanzar mis objetivos.</p>
 <br>
