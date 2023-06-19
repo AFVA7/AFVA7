@@ -1,38 +1,47 @@
-<div id="header" align="center">
-   <img src = "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" witdht="200">
-   <h1 align="center">Hello 👋 I´m Andrés</h1>
-   <h3 align="center">A passionate web backend developer from Colombia</h3>
-</div>
+[![](https://visitcount.itsvg.in/api?id=joshuaFrias95&label=Eres%20la%20visita%20%23&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+# <img height="60" src="https://media.giphy.com/media/uM0QzrHWSDr4KwbC3v/giphy.gif"/> ¡Hola Mundo, soy Andrés!
+<img align="left" height="450" src="https://media.giphy.com/media/fTz2gJRh37GpDaiiyD/giphy.gif" />
+<br>
 
----
+ CO estudiante de ingeniería de sistemas y también parte del Grupo 5 del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de Machine learning, Data Science, Inteligencia Artificial, Desarrollo Web y tecnologías Back-end.
+ <br>
+ <br>
+ <a target="_blank" href="https://www.linkedin.com/in/andres-valencia-arenas/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:rappdvvalencia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+ <br>
+ <br>
+ # <img height="30" src="https://media.giphy.com/media/3osxYhj4VNwxHdlE9G/giphy.gif"/> Sobre mí:
+🔥 **Busco colaborar en** proyectos creativos, videojuegos e Inteligencia Artificial.
+<br>
+🔥 **Actualmente aprendiendo** React y reforzando Java con spring boot.
+<br>
+🔥 **Preguntame por** P5.js, música, cine y libros.
+<br>
+ <br>
+ <br>
+ <br>
 
-### 💻 About me:
+# <img height="40" src="https://media.giphy.com/media/cM2jGL4t1azcHV83Ba/giphy.gif"/> Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-00758F?logo=MYSQL&logoColor=FFFFFF&style=for-the-badge)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<br>
+# <img height="60" src="https://media.giphy.com/media/GfGva4vGq4qNsUf4N9/giphy.gif"/> GitHub Stats:
+<br>
+# <h2 align="center">⭐ Soft Skills</h2>
+<p align="center">Además de mis skills, tengo soft skills como la creatividad, resolución de problemas, adaptabilidad al cambio y trabajo en equipo.</p>
+<p align="center">Soy capaz de concentrarme en los detalles y de comprometerme con el esfuerzo necesario para alcanzar mis objetivos.</p>
+<br>
 
-- 🌱 I'm currently learning **Spring Boot Framework, Docker and reactive programming**
+<br>
+<br>
 
-- 📫 How to reach me **rappdvvalencia@gmail.com**
+<img height="300" align="center" src="https://media.giphy.com/media/chOyZePGEHDoTSY2CA/giphy.gif" />   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaFrias95&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact) <img height="300" align="center" src="https://media.giphy.com/media/chOyZePGEHDoTSY2CA/giphy.gif" />
 
-**🔗 Connect with me:**
-
-<a href="https://www.linkedin.com/in/andres-valencia-arenas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
-
-**🔨 Languages and Tools:**
-
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.armadilloamarillo.com/wp-content/uploads/spring-boot-ok.png" alt="spring" width="50" height="40"/> </a> <a rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg" alt="git" width="40" height="40"/> </a> <a rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="git" width="40" height="40"/> </a> <a rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="git" width="40" height="40"/> </a> <a rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="git" width="40" height="40"/> </a>
-
-
-<!--
-**AFVA7/AFVA7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
