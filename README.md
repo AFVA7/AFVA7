@@ -13,9 +13,9 @@
  # <img height="30" src="https://media.giphy.com/media/3osxYhj4VNwxHdlE9G/giphy.gif"/> Sobre mí:
 🔥 **Busco colaborar en** proyectos creativos, aplicaciones empresariales, videojuegos e Inteligencia Artificial.
 <br>
-🔥 **Actualmente aprendiendo** React y reforzando Java con spring boot.
+🔥 **Actualmente aprendiendo** Python para Data Science.
 <br>
-🔥 **Preguntame por** P5.js, música, cine y libros.
+🔥 **Preguntame por** java, spring framework, SQL y Angular.
 <br>
  <br>
  <br>
