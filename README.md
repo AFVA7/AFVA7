@@ -11,7 +11,7 @@
  <br>
  <br>
  # <img height="30" src="https://media.giphy.com/media/3osxYhj4VNwxHdlE9G/giphy.gif"/> Sobre mí:
-🔥 **Busco colaborar en** proyectos creativos, aplicaciones empresariales, videojuegos e Inteligencia Artificial.
+🔥 **Busco colaborar en** proyectos creativos, aplicaciones empresariales e Inteligencia Artificial.
 <br>
 🔥 **Actualmente aprendiendo** Python para Data Science.
 <br>
