@@ -23,11 +23,13 @@
 
 # <img height="40" src="https://media.giphy.com/media/cM2jGL4t1azcHV83Ba/giphy.gif"/> Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-brightgreen?style=for-the-badge&logo=springboot&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MYSQL-00758F?logo=MYSQL&logoColor=FFFFFF&style=for-the-badge)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Typescript]
 <br>
 # <img height="60" src="https://media.giphy.com/media/GfGva4vGq4qNsUf4N9/giphy.gif"/> GitHub Stats:
 <br>
