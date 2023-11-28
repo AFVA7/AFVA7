@@ -42,5 +42,5 @@
 <br>
 <br>
 
-<img height="250" align="center" src="https://media.giphy.com/media/chOyZePGEHDoTSY2CA/giphy.gif" />   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaFrias95&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact) <img height="250" align="center" src="https://media.giphy.com/media/chOyZePGEHDoTSY2CA/giphy.gif" />
+
 
