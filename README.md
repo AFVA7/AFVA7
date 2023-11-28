@@ -3,7 +3,7 @@
 <img align="left" height="450" src="https://media.giphy.com/media/fTz2gJRh37GpDaiiyD/giphy.gif" />
 <br>
 
- CO estudiante de ingeniería de sistemas y también AlumnIONE del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de Machine learning, Data Science, Inteligencia Artificial, Desarrollo Web y tecnologías Back-end.
+ Estudiante de ingeniería de sistemas y también AlumnIONE del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. Me interesan temas de Machine learning, Data Science, Inteligencia Artificial, Desarrollo Web y tecnologías Back-end.
  <br>
  <br>
  <a target="_blank" href="https://www.linkedin.com/in/afva7/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
