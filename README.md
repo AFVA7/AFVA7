@@ -32,7 +32,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
-# <img height="60" src="https://media.giphy.com/media/GfGva4vGq4qNsUf4N9/giphy.gif"/> GitHub Stats:
+
 <br>
 # <h2 align="center">⭐ Soft Skills</h2>
 <p align="center">Además de mis skills, tengo soft skills como la creatividad, resolución de problemas, adaptabilidad al cambio y trabajo en equipo.</p>
